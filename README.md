@@ -2,4 +2,4 @@
 
  - I tried to make them pass all the user story test and basically thats it, when i had the pacience i tried to make a similar css style and implement it with the
 skills i learned in the course
- - the css codes are contained in the html code 
+ - The css codes are contained in the html code 
